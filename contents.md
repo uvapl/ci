@@ -1,6 +1,6 @@
 # Collectieve Intelligentie<br><span class="small">Studiewijzer</span>
 
-*Versie: 2024*
+*Versie: 2025*
 
 Door het verzamelen van informatie over gebruikers van websites kunnen we een hoop leren over deze mensen, maar ook over groepen gebruikers. Collectieve Intelligentie verwijst naar het verwerken en begrijpen van dit soort informatie om gebruikers uiteindelijk beter te kunnen bedienen. Dit wordt bijvoorbeeld gedaan door een profiel samen te stellen en aanbevelingen te doen voor alternatieve producten (recommendersystemen), of door de volgorde van resultaten bij een zoekopdracht te optimaliseren met behulp van de schijnbare interesses van een gebruiker (rankingsystemen).
 
@@ -12,7 +12,7 @@ Voor organisatorische en persoonlijke vragen stuur een mail naar <pyprog@proglab
 
 Team:
 
-Quinten van der Post, Berfin Inal, Moad Matoug, Martijn Bakker, Floor van Steijn, Silvan Ing, Roman van Eldijk, Sebastiaan Gebuis, Simon Pauw
+Moad Matoug, Simon Pauw
 
 ## Voorkennis
 
@@ -79,7 +79,9 @@ Tijdens dit vak kan je hulp krijgen tijdens de practica. Je kan de tijden en loc
 
 De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
 
-| Weken  | Activiteit    | Deadline            |
+
+Deadlines TBT
+<!-- | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
 | Week 2 | Module 1      | vr 12 apr, 18:00    |
 |        | Vragen hoofdstuk 1 en 2 | vr 12 apr, 18:00    |
@@ -88,7 +90,7 @@ De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er re
 |        | Vragen hoofdstuk 7   | wo 8 mei, 18:00    |
 | Week 5 | Module 4      | vr 17 mei, 18:00    |
 | Week 6 | Module 5      | vr 24 mei, 18:00    |
-| Week 8 | Tentamen      |                     |
+| Week 8 | Tentamen      |                     | -->
 
 ### Te laat
 
