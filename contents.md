@@ -20,9 +20,10 @@ We verwachten dat je flink geoefend hebt met programmeren in Python, Pandas en J
 
 ## Hoorcolleges
 
-Voor dit vak hebben we verschillende type colleges: Technische colleges en gastcolleges. De technische colleges bevatten informatie die je nodig hebt voor de opdrachten. De gastcolleges dienen als verdiepingsmateriaal. Hierin vertellen specialisten uit het bedrijfsleven en andere onderzoeksgebieden over hun ervaring met Recommender Systems in de praktijk.
+We gebruiken opnames van hoorcolleges die we in eerdere iteraties van dit vak hebben gegeven.
 
-Voor de geplande colleges, zie: [hoorcolleges](/lectures/lectures-2024)
+<!--
+Voor de geplande colleges, zie: [hoorcolleges](/lectures/lectures-2024) -->
 
 ## Beoordeling
 
@@ -36,7 +37,7 @@ Na elke deadline worden je opdrachten beoordeeld en krijg je korte feedback over
 
 ### Boek
 
-Je moet gedurende dit vak delen uit het [boek](#literatuur) lezen (delen van hoofdstuk 1,2 en 7). Gedurende het vak krijg je over elk hoofdstuk vragen die je moet beantwoorden.
+Je moet gedurende dit vak delen uit het [boek](#literatuur) lezen (delen van hoofdstuk 1,2 en 7).
 
 ### Tentamen
 
@@ -62,9 +63,8 @@ Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van 
 
 De weging voor het eindcijfer van dit vak is:
 
-- 55% modules (module 1 t/m 5)
-- 5% vragen over het boek (hoofdstuk 1, 2 en 7)
-- 40% tentamen
+- 50% modules (module 1 t/m 5)
+- 50% tentamen
 
 Om het vak te halen moet je:
 
@@ -73,14 +73,18 @@ Om het vak te halen moet je:
 
 ## Begeleiding
 
-Tijdens dit vak kan je hulp krijgen tijdens de practica. Je kan de tijden en locaties voor de practica in Datanose vinden.
+Tijdens dit vak kan je individuele hulp krijgen.
+
+**TBT**
 
 ## Deadlines
 
 De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
 
 
-Deadlines TBT
+Deadlines:
+
+**TBT**
 <!-- | Weken  | Activiteit    | Deadline            |
 | ------ | ------------- | ------------------- |
 | Week 2 | Module 1      | vr 12 apr, 18:00    |
