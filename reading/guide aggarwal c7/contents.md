@@ -4,7 +4,7 @@ Lees hoofdstuk 7 van *Recommender Systems: The Textbook* van *Charu C. Aggarwal*
 
 ### Leeswijzer
 
-In het hoofdstuk wordt de term **overfitting** gebruikt. Hiermee wordt bedoeld dat het algoritme (bijvoorbeeld collaborative filtering) goed werkt voor de traingingdata, maar niet voor de test-set. Het model is dus te specifiek voor de trainingdata geworden.
+In het hoofdstuk wordt de term **overfitting** gebruikt. Hiermee wordt bedoeld dat het algoritme (bijvoorbeeld collaborative filtering) goed werkt voor de training-data, maar niet voor de test-set. Het model is dus te specifiek voor de training-data geworden.
 
 * 7.1: Alles lezen.
 * 7.2: Alles lezen.
@@ -29,7 +29,7 @@ In het hoofdstuk wordt de term **overfitting** gebruikt. Hiermee wordt bedoeld d
 
 ### Vragen
 
-Beantwoord de onderstaande vragen in een text-document `aggarwal7.txt`. Beantwoord elke vraag met hooguit 3 á 4 zinnen (vaak kan het korter). Geef bij elk antwoord aan waar (op welke pagina) je de informatie hebt gevonden.
+Een aantal vragen waar je voor het tentamen zou moeten kunnen beantwoorden.
 
 #### Vraag 1
 

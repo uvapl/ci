@@ -47,7 +47,7 @@ Hoofdstuk 2
 
 ### Vragen
 
-Beantwoord de onderstaande vragen in een text-document `aggarwal1.txt`. Beantwoord elke vraag met hooguit 3 á 4 zinnen (vaak kan het korter). Geef bij elk antwoord aan waar (op welke pagina) je de informatie hebt gevonden.
+Een aantal vragen waar je voor het tentamen zou moeten kunnen beantwoorden.
 
 #### Vraag 1:
 \[3 pt.\]

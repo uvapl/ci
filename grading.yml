@@ -25,15 +25,6 @@ grades:
         <<: *manual
         calculation: "[(points) * 9.0 / 14.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
 
-    aggarwal_1:
-        <<: *manual
-        calculation: "[(points) * 9.0 / 15.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-
-    aggarwal_7:
-        <<: *manual
-        calculation: "[(points) * 9.0 / 6.0 + 1, way_late == -1 && 1 || 10, late_1_day == -1 && 7 || 10, late_4_day == -1 && 5.5 || 10].min"
-
-
     tentamen:
         type: float
         subgrades:
@@ -50,13 +41,11 @@ grades:
 
 calculation:
     eindcijfer:
-        tentamen: 40
-        opdrachten: 55
-        boek: 5
+        tentamen: 50
+        opdrachten: 50
     herkansingscijfer:
-        hertentamen: 40
-        opdrachten: 55
-        boek: 5
+        hertentamen: 50
+        opdrachten: 50
 
 
 opdrachten:
@@ -69,11 +58,6 @@ opdrachten:
         module_4: 1
         module_5: 1
 
-boek:
-    show_progress: true
-    submits:
-        aggarwal_1: 1
-        aggarwal_7: 1
 
 tentamen:
     show_progress: true
