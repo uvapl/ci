@@ -11,6 +11,10 @@ Unzip de module in de directory die je tijdens de installatie hebt gekozen voor 
 
 In de Jupyter Notebook browser, open het `module4.ipynb` bestand.
 
+## Reflectie
+
+Download het reflectieformulier hier en vul het in: [reflectie](CI-reflectie-4.pdf)
+
 ## Submit
 
 Als je klaar bent, lever dan hieronder de notebook in. Voor je de notebook inlevert, verzeker jezelf ervan dat de notebook ook echt werkt.

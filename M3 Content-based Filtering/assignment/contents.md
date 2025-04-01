@@ -13,6 +13,9 @@ In de Jupyter Notebook browser, open het `module3a.ipynb`/`module3b.ipynb`/`modu
 
 Deze opdracht bevat in totaal drie Jupyter Notebooks. Je moet alle drie de notebooks inleveren!
 
+## Reflectie
+
+Download het reflectieformulier hier en vul het in: [reflectie](CI-reflectie-3.pdf)
 
 ## Submit
 
