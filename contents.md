@@ -63,8 +63,8 @@ Het is belangrijk dat je zelfstandig aan de slag gaat en goed gebruik maakt van 
 
 De weging voor het eindcijfer van dit vak is:
 
-- 50% modules (module 1 t/m 5)
-- 50% tentamen
+- 40% modules (module 1 t/m 5)
+- 60% tentamen
 
 Om het vak te halen moet je:
 
@@ -73,28 +73,33 @@ Om het vak te halen moet je:
 
 ## Begeleiding
 
-Tijdens dit vak kan je individuele hulp krijgen.
+Tijdens dit vak kan je individuele hulp krijgen op de volgende momenten:
 
-**TBT**
+| Tijd       | Locatie |
+|------------|---------|
+| Ma 11 - 13 | L0.10   |
+| Di  9 - 11 | L0.11   |
+| Wo  9 - 11 | L0.11   |
+
+*Locaties kunnen nog wijzigen.
+
+## Aanwezigheid
+
+**Je moet minstens 1 keer per week aanwezig zijn** en je voortgang hebben besproken.
 
 ## Deadlines
 
 De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal en programmeren kost tijd.
 
-
 Deadlines:
 
-**TBT**
-<!-- | Weken  | Activiteit    | Deadline            |
-| ------ | ------------- | ------------------- |
-| Week 2 | Module 1      | vr 12 apr, 18:00    |
-|        | Vragen hoofdstuk 1 en 2 | vr 12 apr, 18:00    |
-| Week 3 | Module 2      | wo 24 apr, 18:00    |
-| Week 4 | Module 3      | wo 8 mei, 18:00     |
-|        | Vragen hoofdstuk 7   | wo 8 mei, 18:00    |
-| Week 5 | Module 4      | vr 17 mei, 18:00    |
-| Week 6 | Module 5      | vr 24 mei, 18:00    |
-| Week 8 | Tentamen      |                     | -->
+| Activiteit    | Deadline            |
+| ------------- | ------------------- |
+| Module 1      |  9 apr, 23:59       |
+| Module 2      | 16 apr, 23:59       |
+| Module 3      | 25 apr, 23:59       |
+| Module 4      | 12 mei, 23:59       |
+| Module 5      | 19 mei, 23:59       |
 
 ### Te laat
 
