@@ -2,4 +2,5 @@ name: module_5
 files:
     required:
         - "module5.ipynb"
+    optional:
         - "CI-reflectie-5.pdf"
